@@ -5,13 +5,12 @@
 ### Automated Lead Generation Tool Using AI / Data Scraping / Data Processing
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](httpshttps://img.shields.io/badge/Pandas-Data--Processing-150458?style=for-the-badge&logo=pandas)
 ![Requests](https://img.shields.io/badge/Requests-HTTP-007ACC?style=for-the-badge&logo=python&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-Export-lightgrey?style=for-the-badge)
 
 **A Python-based automation tool that generates potential leads by scraping, filtering, and processing public data — producing structured CSV lists of contacts for outreach or business development.**
 
-[📖 Documentation](#features) | [🐛 Report Bug](https://github.com/TanayV24/Ai-Lead-Generator/issues) | [💡 Request Feature](https://github.com/TanayV24/Ai-Lead-Generator/issues)
+[🐛 Report Bug](https://github.com/TanayV24/Ai-Lead-Generator/issues) | [💡 Request Feature](https://github.com/TanayV24/Ai-Lead-Generator/issues)
 
 </div>
 
